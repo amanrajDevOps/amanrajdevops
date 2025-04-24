@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on amazing blockchain based solutions  
 👨‍💻 Not All of my projects are available on GitHub as I had worked with many Blockchain Projects who didn't want me to share their codes online  
-💬 Ask me about blockchain, Ethereum, Solidity
+💬 Ask me about blockchain, Ethereum, Solidity, Web3, Ethers, Hardhat, anything related to Crypto and Blockchain!                                             
 📫 You can contact me at amankumarraj.iot.aec@gmail.com
 
 ---
