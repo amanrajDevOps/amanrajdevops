@@ -11,7 +11,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## 🚀 Blockchain Development & Smart Contract Tools:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)
@@ -27,18 +27,30 @@
 ![Metamask](https://img.shields.io/badge/-MetaMask-F6851B?logo=metamask&logoColor=white&style=flat)
 ![Truffle](https://img.shields.io/badge/-Truffle-5E464D?logo=truffle&logoColor=white&style=flat)
 ![OpenZeppelin](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=white&style=flat)
+
+## 💻 Programming Languages & General Dev Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+
+## 🌐 Web Development(Web3 DApps):
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
+## 🧪 Testing Frameworks:
 ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white&style=flat)
 ![Chai](https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white&style=flat)
 
+## 🗃️ Databases & Backend:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
+## 🧰 DevOps & Tooling:
 ![GIT](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
-
+## 🐧 Operating System / CLI:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
 
