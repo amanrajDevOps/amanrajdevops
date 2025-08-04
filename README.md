@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/aman-kumar-raj-254058317/)
+[LinkedIn](https://www.linkedin.com/in/aman-raj-devops/)
 
 ---
 
