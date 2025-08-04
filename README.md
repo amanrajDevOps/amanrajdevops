@@ -59,9 +59,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amankumarraj020204&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=amanrajdevops&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=amankumarraj020204&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=amanrajdevops&theme=radical&no-frame=true&no-bg=false&margin-w=4)
